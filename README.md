@@ -1,3 +1,7 @@
+Pre initialized React app with default config to serve for users facing issues with npx create-react-app
+
+Simply clone the repo, run `npm install` and you are good to go.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
