@@ -1,4 +1,5 @@
-Pre initialized React app with default config to serve for users facing issues with npx create-react-app
+## React Starter Kit
+Pre initialized React app with default config to serve for users facing issues with `npx create-react-app`
 
 Simply clone the repo, run `npm install` and you are good to go.
 
